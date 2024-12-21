@@ -1,5 +1,3 @@
-Here’s the complete updated README for your project:
-
 ---
 
 # Python Automation with GitHub Actions
